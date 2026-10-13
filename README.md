@@ -2,4 +2,4 @@
 Demo site For stay mitra
 
 
-staymitra.net
+https://staymitra.net
